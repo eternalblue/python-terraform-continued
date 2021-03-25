@@ -21,7 +21,7 @@ except IOError:
 
 setup(
     name=module_name,
-    version="0.14.0",
+    version="0.14.1",
     url="https://github.com/eternalblue/python-terraform-continued",
     license="MIT",
     author="Freddy Tan",
